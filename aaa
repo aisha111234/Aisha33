@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Факты о Мичигане</title>
+</head>
+<body>
+    <header>
+        <h1>Интересные факты о Мичигане</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Основные факты</h2>
+            <ul>
+                <li>Мичиган имеет самую длинную пресноводную береговую линию в мире.</li>
+                <li>Он состоит из двух полуостровов: Верхнего и Нижнего.</li>
+                <li>Здесь находится более 11 000 озер.</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Изображения</h2>
+            <img src="michigan_lake.jpg" alt="Озеро в Мичигане" width="300">
+            <img src="michigan_winter.jpg" alt="Зимний пейзаж в Мичигане" width="300">
+            <img src="michigan_map.jpg" alt="Карта Мичигана" width="300">
+        </section>
+        
+        <section>
+            <h2>Полезные ссылки</h2>
+            <p>Узнайте больше о Мичигане на <a href="https://www.michigan.org" target="_blank">официальном сайте</a>.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Факты о Мичигане</p>
+    </footer>
+</body>
+</html>
