@@ -39,7 +39,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Основная часть страницы */
 main {
     background-color: #fff;
     font-size: 18px;
